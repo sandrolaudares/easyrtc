@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/priologic/easyrtc/issues"
   },
-  "main": "index",
+  "main": "app",
   "dependencies": {
     "async": "0.2.x",
     "colors": "*",
